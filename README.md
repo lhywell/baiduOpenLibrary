@@ -15,6 +15,8 @@ http://lbsyun.baidu.com/index.php?title=jspopular/openlibrary
 修复BUG：
 1. 去掉setTimeout死循环
 
+源文件:
+
 [AreaRestriction.js](https://smartdata.b0.upaiyun.com/map/AreaRestriction.js)
 
 [AreaRestriction.min.js](https://smartdata.b0.upaiyun.com/map/AreaRestriction.min.js)
@@ -26,6 +28,8 @@ http://lbsyun.baidu.com/index.php?title=jspopular/openlibrary
 新增功能点：
 1. 增加多边形面积提示
 2. overlaycomplete去掉面积提示
+
+源文件:
 
 [DrawingManager.js](https://smartdata.b0.upaiyun.com/map/DrawingManager.js)
 
