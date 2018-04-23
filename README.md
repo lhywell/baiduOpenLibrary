@@ -16,6 +16,7 @@ http://lbsyun.baidu.com/index.php?title=jspopular/openlibrary
 1. 去掉setTimeout死循环
 
 [AreaRestriction.js](https://smartdata.b0.upaiyun.com/map/AreaRestriction.js)
+
 [AreaRestriction.min.js](https://smartdata.b0.upaiyun.com/map/AreaRestriction.min.js)
 
 
@@ -27,4 +28,5 @@ http://lbsyun.baidu.com/index.php?title=jspopular/openlibrary
 2. overlaycomplete去掉面积提示
 
 [DrawingManager.js](https://smartdata.b0.upaiyun.com/map/DrawingManager.js)
+
 [DrawingManager.min.js](https://smartdata.b0.upaiyun.com/map/DrawingManager.min.js)
