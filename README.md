@@ -51,13 +51,13 @@ http://lbsyun.baidu.com/index.php?title=jspopular/openlibrary
 
 1. 地图坐标偏移
 
-浏览器类型、版本号：Microsoft Edge
+    浏览器类型、版本号：Microsoft Edge
 
-pc系统或手机型号：系统window10
+    pc系统或手机型号：系统window10
 
-使用的接口／api:
+    使用的接口／api:
 
-问题描述:鼠标点击地图出现位置偏差
+    问题描述:鼠标点击地图出现位置偏差
 
 - 复现链接：http://smartdata.b0.upaiyun.com/map/baiduMap.html
 
@@ -65,13 +65,13 @@ pc系统或手机型号：系统window10
 
 2. 引入限制区域开源库的问题
 
-浏览器类型、版本号：Chrome
+    浏览器类型、版本号：Chrome
 
-pc系统或手机型号：window10
+    pc系统或手机型号：window10
 
-使用的接口／api:
+    使用的接口／api:
 
-问题描述:引入限制区域开源库，AreaRestriction.js，拖动地图会出现这个问题，地图movestart，moveend事件不停的执行，不停的刷新header
+    问题描述:引入限制区域开源库，AreaRestriction.js，拖动地图会出现这个问题，地图movestart，moveend事件不停的执行，不停的刷新header
 
 - 复现链接：http://smartdata.b0.upaiyun.com/map/baiduMap-AreaRestriction.html
 
