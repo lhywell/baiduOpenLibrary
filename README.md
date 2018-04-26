@@ -41,6 +41,7 @@ http://lbsyun.baidu.com/index.php?title=jspopular/openlibrary
 
 ## 案例
 1. BaiduMap用canvas渲染万级POI点
+
 http://smartdata.b0.upaiyun.com/map/baiduMap-canvas.html
 
 
