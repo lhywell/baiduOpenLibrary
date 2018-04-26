@@ -34,3 +34,34 @@ http://lbsyun.baidu.com/index.php?title=jspopular/openlibrary
 [DrawingManager.js](https://smartdata.b0.upaiyun.com/map/DrawingManager.js)
 
 [DrawingManager.min.js](https://smartdata.b0.upaiyun.com/map/DrawingManager.min.js)
+
+#### BaiduMap用canvas渲染万级POI点
+
+#### BaiduMap BUG
+1. 地图坐标偏移
+
+浏览器类型、版本号：Microsoft Edge
+
+pc系统或手机型号：系统window10
+
+使用的接口／api:
+
+问题描述:鼠标点击地图出现位置偏差
+
+复现链接：http://smartdata.b0.upaiyun.com/thinkmark/baiduMap.html
+上报链接：http://bbs.lbsyun.baidu.com/forum.php?mod=viewthread&tid=137838
+
+2. 引入限制区域开源库的问题
+
+浏览器类型、版本号：Chrome
+
+pc系统或手机型号：window10
+
+使用的接口／api:
+
+问题描述:引入限制区域开源库，AreaRestriction.js，拖动地图会出现这个问题，地图movestart，moveend事件不停的执行，不停的刷新header
+
+复现链接：http://smartdata.b0.upaiyun.com/thinkmark/baiduMap.html
+上报链接：http://bbs.lbsyun.baidu.com/forum.php?mod=viewthread&tid=138400&page=1#pid309255
+
+![map](https://raw.githubusercontent.com/lhywell/baiduOpenLibrary/master/img/map.git)
